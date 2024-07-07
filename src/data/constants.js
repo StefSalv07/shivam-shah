@@ -7,7 +7,7 @@ export const Bio = {
     "DataBase Manager",
   ],
   description:
-    "I am a dynamic full-stack web developer based in Ahmedabad, Gujarat. Currently, I work as a Tech Trainer at Sarthihub Tech, specializing in the MERN stack. I mentor college graduates, empowering them with skills in MongoDB, Express.js, React, and Node.js.Before joining Sarthihub Tech, I served as a Teaching Assistant at Dhirubhai Ambani Institute of Information and Communication Technology. I guided students in Object-Oriented Programming sessions and facilitated problem-solving. I possess expertise in Java, JavaScript, Spring, and technologies like RESTful Web Services and React.js. I am poised to continue making significant contributions to the tech industry.",
+    "I am a full-stack web developer based in Ahmedabad, Gujarat, currently employed as a Backend Developer at Smartters.in. My expertise lies in the MERN stack, and I specialize in mentoring college graduates in MongoDB, Express.js, React, and Node.js. Before this role, I served as a Teaching Assistant at Dhirubhai Ambani Institute of Information and Communication Technology, guiding students in Object-Oriented Programming and problem-solving. I have comprehensive knowledge of Java, JavaScript, Spring, RESTful Web Services, React.js, and Feathers.js.",
   github: "https://github.com/shi-vam7902",
   resume:
     "https://drive.google.com/file/d/1KjyHO9DsMI05igtVhn6nwhlXqQ8f0JkT/view?usp=sharing",
