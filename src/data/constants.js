@@ -1,13 +1,8 @@
 export const Bio = {
   name: "Shivam Shah",
-  roles: [
-    "Full Stack Developer",
-    "Java Web Developer",
-    "System Designer",
-    
-  ],
+  roles: ["Full Stack Java/Web Developer", "Software Engineer Enthusiast"],
   description:
-    "A full-stack Java/Web developer currently Enhancing  as a Backend Developer at Smartters.in. I have expertise in the MERN/MEAN stack and also mentor college graduates in Node.js and Feathers.js. Before this role, I worked as a Teaching Assistant at Dhirubhai Ambani Institute of Information and Communication Technology, where I guided students in Object-Oriented Programming and problem-solving. I possess comprehensive knowledge of Java, JavaScript, Spring, RESTful Web Services, React.js, and Feathers.js.",
+    "A full-stack Java/Web developer specializing in backend development at Smartters.in, with expertise in the MERN/MEAN stack. I mentor graduates in Node.js and Feathers.js, and previously guided students in Object-Oriented Programming as a Teaching Assistant at DA-IICT. Skilled in Java, JavaScript, Spring, RESTful APIs, React.js, and Feathers.js, with interests in cloud and DevOps.",
   github: "https://github.com/shi-vam7902",
   resume:
     "https://drive.google.com/file/d/1KjyHO9DsMI05igtVhn6nwhlXqQ8f0JkT/view?usp=sharing",
@@ -188,10 +183,27 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
+    img: "https://github.com/shi-vam7902/imaages/blob/main/smartters%20software.jpeg?raw=true",
+    role: "Full Stack Web-Development Intern ",
+    company: "Smartters Software Private Limited",
+    date: "July 2024 - October 2024 ",
+    desc: "",
+    skills: [
+      "Node Js",
+      "Node Js",
+      "Feathers Js",
+      "TypeScript",
+      "MySql",
+      "Mongo DB",
+    ],
+    doc: "",
+  },
+  {
+    id: 0,
     img: "https://raw.githubusercontent.com/shi-vam7902/imaages/main/download.png",
     role: "Full Stack Web Intern [TL]",
     company: "Xcelcode Skill Up Serve",
-    date: "May 2024 - Present",
+    date: "May 2024 - July 2024",
     desc: "",
     skills: [
       "Node Js",
@@ -222,6 +234,7 @@ export const experiences = [
     ],
     doc: "",
   },
+
   {
     id: 2,
     img: "https://raw.githubusercontent.com/shi-vam7902/imaages/main/unnati.jpeg",
