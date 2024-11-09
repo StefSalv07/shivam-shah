@@ -4,10 +4,10 @@ export const Bio = {
     "Full Stack Developer",
     "Java Web Developer",
     "System Designer",
-    "DataBase Manager",
+    
   ],
   description:
-    "A full-stack Java/web developer currently employed as a Backend Developer at Smartters.in. I have expertise in the MERN/MEAN stack and also mentor college graduates in Node.js and Feathers.js. Before this role, I worked as a Teaching Assistant at Dhirubhai Ambani Institute of Information and Communication Technology, where I guided students in Object-Oriented Programming and problem-solving. I possess comprehensive knowledge of Java, JavaScript, Spring, RESTful Web Services, React.js, and Feathers.js.",
+    "A full-stack Java/Web developer currently Enhancing  as a Backend Developer at Smartters.in. I have expertise in the MERN/MEAN stack and also mentor college graduates in Node.js and Feathers.js. Before this role, I worked as a Teaching Assistant at Dhirubhai Ambani Institute of Information and Communication Technology, where I guided students in Object-Oriented Programming and problem-solving. I possess comprehensive knowledge of Java, JavaScript, Spring, RESTful Web Services, React.js, and Feathers.js.",
   github: "https://github.com/shi-vam7902",
   resume:
     "https://drive.google.com/file/d/1KjyHO9DsMI05igtVhn6nwhlXqQ8f0JkT/view?usp=sharing",
