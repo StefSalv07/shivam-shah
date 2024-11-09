@@ -7,7 +7,6 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/1KjyHO9DsMI05igtVhn6nwhlXqQ8f0JkT/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/shah-shivam/",
-  twitter: "",
   insta: "https://www.instagram.com/pluviophil0709?igsh=ejlid3U1ZTZiYnBm",
   facebook: "https://www.facebook.com/shah.shivam.1000",
 };
